@@ -12,7 +12,7 @@
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>himaven-shade-plugin</artifactId>
+                <artiffactId>himaven-shade-plugin</artifactId>
                 <version>2.1</version>
                 <executions>
                     <execution>
